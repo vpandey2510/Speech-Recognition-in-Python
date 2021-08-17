@@ -13,6 +13,7 @@ import speech_recognition as sr       #pip install SpeechRecognition
 import time       
 
 #Creating GUI for display and interaction between user and interface
+#configuration of window panels could be change by giving different values
 
 root = Tk()         #Creating a window panel
 root.title("Python Project")      #Giving title to the panel
