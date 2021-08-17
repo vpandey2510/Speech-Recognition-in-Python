@@ -21,3 +21,6 @@ Following are the function used in the project:
 6. Listen()
 7. Recognizer_Google()
 8. Exit()
+
+It could be used for any language available on Google Speech API. I tried it for english and hindi only. 
+The output will come written in english only, even if you say any other language.  
